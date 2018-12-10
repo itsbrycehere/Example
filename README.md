@@ -1,0 +1,2 @@
+# Example
+For teaching Git
